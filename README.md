@@ -1,0 +1,1 @@
+These are my submissions to HackerRank challenges. This is more to capitalize on the fact that I usually do the challenges on my local machine anyways, so I may as well keep track of what I've done.
