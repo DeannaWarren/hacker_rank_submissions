@@ -9,4 +9,7 @@ I have decided to complete the challenges in Python since I am currently learnin
 - Day 2: Operators
   - python variables are in snake_case
   - decimal is a different data type to floats and can be more accurate, must be imported. however floats worked in this case.
-- Day 3: ?
+- Day 3: Intro to Conditionals
+  - no end keyword
+  - logical operators: and, or, not
+  - if//else end with :
