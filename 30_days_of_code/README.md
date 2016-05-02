@@ -13,3 +13,6 @@ I have decided to complete the challenges in Python since I am currently learnin
   - no end keyword
   - logical operators: and, or, not
   - if//else end with :
+- Day 4: Class Vs Instance
+  - def _init_(stuff here) for new
+  - initialize as Class(stuff here), no .new
