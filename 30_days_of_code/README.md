@@ -16,3 +16,5 @@ I have decided to complete the challenges in Python since I am currently learnin
 - Day 4: Class Vs Instance
   - def _init_(stuff here) for new
   - initialize as Class(stuff here), no .new
+- Day 5: Loops
+  -
